@@ -158,10 +158,6 @@ task _GameInit()
 	// Script ID logging
 	SetAreaCommonData(AREA_SCRIPTS, SCRIPT_PACKAGE, GetOwnScriptID());
 	
-	// Debug
-	//SetAreaCommonData(AREA_ACHIEVE, FINALE_CLEAR, true);
-	//SetAreaCommonData(AREA_ACHIEVE, CAPTURE_COUNT, 100);
-	
 	// Asset loading 
 	
 	// Images

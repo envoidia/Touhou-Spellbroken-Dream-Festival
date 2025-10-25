@@ -1,5 +1,5 @@
 Touhou Spellbroken Dream Festival\東方弾夢記[r]February 25th, 2022
-Incandescence System[r]インカンデセンス・システム (ISY)\Comprehensive Developer[r](concept, programming, game design,[r]graphic design, asset creation, etc)
+envoidia\Comprehensive Developer[r](concept, programming, game design,[r]graphic design, asset creation, etc)
 M-Poly (my man)\♫ Composer ♫[r]Playtesting
 ZUN\Touhou Project
 Naudiz\Japanese help[r]Shader help[r]Engine work[r]Naming things[r]Playtesting

@@ -116,7 +116,7 @@ task _3dShape(int graphic_, int color_)
 	
 	float rot = 4;
 	
-	// Yeah
+	// Hey, kids! Don't do this. Don't. It's very bad. I'm just too lazy for math
 	float[][] arrPos = 
 	[
 		// 2, 1, 0

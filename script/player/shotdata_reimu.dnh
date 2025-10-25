@@ -13,7 +13,7 @@ ShotData
 	rect = (85, 0, 98, 46);
 	render = ALPHA;
 	alpha = 130;
-	collision = 12;
+	collision = (12, 0, 0);
 }
 
 // Blue homing amulet
@@ -23,7 +23,7 @@ ShotData
 	rect = (0, 17, 17, 34);
 	render = ALPHA;
 	alpha = 130;
-	collision = 12;
+	collision = (12, 0, 0);
 }
 
 // Persuasion needle
@@ -33,5 +33,5 @@ ShotData
 	rect = (68, 0, 85, 55);
 	render = ALPHA;
 	alpha = 160;
-	collision = 12;
+	collision = (12, 0, 0);
 }
