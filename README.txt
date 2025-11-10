@@ -1,4 +1,4 @@
-This code cannot be ran, and is provided purely for educational and referential purposes. Go to https://insys.itch.io/sdf to download the game for free.
+This code cannot be ran on its own. Go to https://insys.itch.io/sdf to download the game for free.
 
 Below is the README that comes with normal copies of the game.
 
