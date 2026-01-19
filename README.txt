@@ -2,7 +2,7 @@ This code cannot be ran on its own. Go to https://insys.itch.io/sdf to download 
 
 Below is the README that comes with normal copies of the game.
 
------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------
 
 Touhou Danmuki ~ Spellbroken Dream Festival v1.10c
 
